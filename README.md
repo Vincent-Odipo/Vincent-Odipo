@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Vincent-Odipo/Vincent-Odipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Vincent Odipo
+## About me
+-I'm currently learning Microsoft AI Certification Course.
+-I'm interested in AI, Machine Learning and Software Development.
+-I'm looking to collaborate on beginner-friendly open source projects.
+## Skills I'm Building
+-Git and GitHub
+-Python
+-Microsoft Azure
+## Current Projects
+-None
+## How to Reach Me
+-Email: vincenttodipo@gmail.com
+-LinkedIn: Vincent Odipo
